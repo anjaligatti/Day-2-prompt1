@@ -1,0 +1,2 @@
+ The output should look exactly like this:
+  ["Red", "Blue", "Green", "Yellow"]
