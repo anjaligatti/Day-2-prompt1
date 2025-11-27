@@ -1,2 +1,6 @@
  The output should look exactly like this:
   ["Red", "Blue", "Green", "Yellow"]
+This list contains four color names. Make sure your program prints them in the same order.
+
+# Example usage:
+print(colors)
